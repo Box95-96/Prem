@@ -80,10 +80,10 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92m Dreamless Prem
-\033[1;96mInstagram \033[1;93m: \033[1;92m Prem
-\033[1;96mFacebook  \033[1;93m: \033[1;92m Prem
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Box95-Crew/Prem
+\033[1;96mAuthor Dreamless Prem
+\033[1;96mInstagram Prem
+\033[1;96mFacebook Prem
+\033[1;96mGithub https://Github.com/Box95-Crew/Prem
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
